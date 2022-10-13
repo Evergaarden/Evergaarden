@@ -8,3 +8,6 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/graylog-090909?style=for-the-badge&logo=graylog&logoColor=FF3835)
 ![Header](https://img.shields.io/badge/charlesproxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=2674f2)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evergaarden&show_icons=tru&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
