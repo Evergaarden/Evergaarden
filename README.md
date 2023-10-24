@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evergaarden&layout=compact&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-You can see my CV at this <a href="https://drive.google.com/file/d/1YSC6pvvK7LzVCFgkCn-QSBjQ5JRi9eb2/view?usp=sharing">link</a> 
+You can check my CV at this <a href="https://drive.google.com/file/d/1Jpos0rnH4BTGpZWy8i4qCRTHAOvvpSFe/view">link</a> 
